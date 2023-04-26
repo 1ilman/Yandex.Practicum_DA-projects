@@ -4,8 +4,11 @@ _________________
 
 ### Проекты выполнены в рамках обучения на курсе Яндекс.Практикум    
 
-ссылка на курс (course): [https://praktikum.yandex.ru/data-analyst/](https://praktikum.yandex.ru/data-analyst/)  
+ссылка на курс (course): [https://praktikum.yandex.ru/data-analyst/](https://praktikum.yandex.ru/data-analyst/)
 
+### <font color="red">В некоторых проектах присутствуют интерактивные графики, котоыре не воспроизводит GitHub, по соображениям безопасности, поэтому тут вы можете найти ссылку на проект в nbviewer.org, где Вы можете просмотреть весь проект вместе с интерактивными графиками и изображениями.</font>
+
+### <font color="red">Some projects have interactive graphics that GitHub does not reproduce for security reasons, so here you can find a link to the project at nbviewer.org where you can view the entire project along with interactive graphics and images.</font>
 ---  
 
 ## Описание проектов / Description of projects    
