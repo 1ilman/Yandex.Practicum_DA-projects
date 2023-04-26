@@ -53,15 +53,11 @@ _________________
 
 <b>Задача:</b> Провел исследование и анализ данных о пользователях приложения Procrastinate Pro+ в целях оптимизировать маркетинговые затраты. Проанализировал, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда клиент окупается. 
 
-<b>ссылка на nbviewer.org:</b> [Исследование данных о пользователях приложения Procrastinate Pro+](https://nbviewer.jupyter.org/github/1ilman/Yandex.Practicum_DA-projects/blob/main/3.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Procrastinate%20Pro%2B/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Procrastinate%20Pro%2B.ipynb)
-
 ### 3. Exploring Procrastinate Pro+ User Data | **Business performance analysis**    
 <ins>Libraries:</ins> pandas, numpy, datetime, matplotlib   
 <ins>Also:</ins> metrics   
 
 <b>Problem:</b> Conducted research and analysis of data on users of the Procrastinate Pro + application in order to optimize marketing costs. I analyzed how people use the product, when they start buying, how much money each client brings, when the client pays off.  
-
-<b>link to nbviewer.org:</b> [Exploring Procrastinate Pro+ User Data](https://nbviewer.jupyter.org/github/1ilman/Yandex.Practicum_DA-projects/blob/main/3.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Procrastinate%20Pro%2B/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BE%20%D0%BF%D0%)
 
 ---    
 
@@ -157,11 +153,7 @@ _________________
 
 <b>Задача:</b> Проанализировал данные по изданным книгам для книжного интернет-магазина 
 
-<b>ссылка на nbviewer.org:</b> [Анализ базы данных средствами SQL](https://nbviewer.jupyter.org/1ilman/Yandex.Practicum_DA-projects/blob/main/7.%20%D0%92%D0%AB%D0%9F%D0%A3%D0%A1%D0%9A%D0%9D%D0%9E%D0%99%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20(%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%2C%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%2C%20SQL)/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D0%BC%D0%B8%20SQL.ipynb)
-
 #### 7.3 **Database analysis using SQL**   
 <ins>Libraries:</ins> pandas, sqlalchemy   
 
 <b>Problem:</b> Analyzed data on published books for an online bookstore. 
-
-<b>link to nbviewer.org:</b> [Database analysis using SQL](https://nbviewer.jupyter.org/1ilman/Yandex.Practicum_DA-projects/blob/main/7.%20%D0%92%D0%AB%D0%9F%D0%A3%D0%A1%D0%9A%D0%9D%D0%9E%D0%99%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20(%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%2C%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%2C%20SQL)/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D0%BC%D0%B8%20SQL.ipynb)
