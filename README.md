@@ -6,9 +6,9 @@ _________________
 
 ссылка на курс (course): [https://praktikum.yandex.ru/data-analyst/](https://praktikum.yandex.ru/data-analyst/)
 
-<font color="red">В некоторых проектах присутствуют интерактивные графики, которые не воспроизводит GitHub, по соображениям безопасности, поэтому ниже к каждому проекту вы можете найти ссылку на nbviewer.org, где Вы можете просмотреть весь проект вместе с интерактивными графиками и изображениями.</font>
+#### В некоторых проектах присутствуют интерактивные графики, которые не воспроизводит GitHub, по соображениям безопасности, поэтому ниже к каждому проекту в "Описание проектов" вы можете найти ссылку на nbviewer.org, где Вы можете просмотреть весь проект вместе с интерактивными графиками и изображениями.
+#### Some projects have interactive graphics that GitHub does not reproduce for security reasons, so below for each project in "Description of projects" you can find a link to nbviewer.org where you can view the entire project along with interactive graphics and images.
 
-<font color="red">Some projects have interactive graphics that GitHub does not reproduce for security reasons, so below for each project you can find a link to nbviewer.org where you can view the entire project along with interactive graphics and images.</font>
 ---  
 
 ## Описание проектов / Description of projects    
